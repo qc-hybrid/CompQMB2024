@@ -6,7 +6,7 @@ title:  Current and Future Computational Approaches to Quantum Many-Body Systems
 This workshop is focused on developing computational methods and applications for quantum many-body systems, providing opportunities for future collaborations. The topics will cover dynamical mean-field theory, tensor networks, quantum Monte Carlo methods, neural network approaches, quantum algorithms, etc.
 
 # Dates 
-October 24 - 27, 2024
+September 24 - 27, 2024
 
 # Program
 [Link]({{ site.baseurl }}/program)
