@@ -9,7 +9,7 @@ This workshop is focused on developing computational methods and applications fo
 October 24 - 27, 2024
 
 # Program
-[Link](/program/)
+[Link]({{ site.baseurl }}/program/)
 
 # Venue
 [ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html)
