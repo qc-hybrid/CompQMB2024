@@ -38,7 +38,10 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Tsuyoshi Okubo (University of Tokyo)
 * Wataru Mizukami (University of Osaka)
 
+# Local organizers
+* Kota Ido (University of Tokyo)
+* Takahiro Misawa (University of Tokyo)
+* Naoki Kawashima (University of Tokyo)
+
 # Support
-Supported by 
-[FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B)
-"Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
+* [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
