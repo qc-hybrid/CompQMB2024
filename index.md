@@ -31,7 +31,7 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 * Kun Chen (Institute of Theoretical Physics，China)
 * Xinyang Dong (AI for Science Institute, China)
 * Hideaki Hakoshima (Osaka University, Japan)
-* Wei Hu 
+* Wei Hu (University of Science and Technology of China, China)
 * Bálint Koczor (University of Oxford, UK)
 * Jin-Guo Liu (Hong Kong University of Science and Technology, China)
 * Yi Lu (Physics department of Nanjing University, China)
