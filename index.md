@@ -41,9 +41,9 @@ It will be open soon.
 
 # Organizers
 
-* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama Univ.)
+* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama University)
 * Tsuyoshi Okubo (University of Tokyo)
-* Wataru Mizukami (University of Osaka)
+* Wataru Mizukami (Osaka University)
 
 # Local organizers
 * Kota Ido (University of Tokyo)
