@@ -21,9 +21,7 @@ Please arrange your own hotel accommodations.
 Free
 
 # Registration
-Will be open soon.
-
-If the number of registrations for onsite participation exceeds the limit, a selection will be made. In this case, presenters (both contributed and poster) will take precedence.
+It will be open soon.
 
 [Registration Form]()
 
