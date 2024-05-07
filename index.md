@@ -30,12 +30,15 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 # Invited speakers (in alphabetical order)
 * Kun Chen (Institute of Theoretical Physics，China)
 * Xinyang Dong (AI for Science Institute, China)
+* Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
 * Hideaki Hakoshima (Osaka University, Japan)
 * Wei Hu (University of Science and Technology of China, China)
+* Etsuko Itou (Kyoto University, Japan)
 * Bálint Koczor (University of Oxford, UK)
 * Jin-Guo Liu (Hong Kong University of Science and Technology, China)
 * Yi Lu (Physics department of Nanjing University, China)
 * Mario Motta (IBM Research Almaden, USA)
+* Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
 
 # Organizers
 
