@@ -3,7 +3,7 @@ title:  Current and Future Computational Approaches to Quantum Many-Body Systems
 ---
 
 # About
-This workshop is focused on developing computational methods and applications for quantum many-body systems, providing opportunities for future collaborations. The topics will cover dynamical mean-field theory, tensor networks, quantum Monte Carlo methods, neural network approaches, quantum algorithms, etc.
+This workshop is focused on developing current and future computational methods and applications for quantum many-body systems, providing opportunities for future collaborations. The topics will cover quantum embedding theories, tensor networks, machine learning, and quantum algorithms/information.
 
 # Dates 
 September 24 - 27, 2024
@@ -21,16 +21,21 @@ Please arrange your own hotel accommodations.
 Free
 
 # Registration
-Deadline:
-* 
+Will be open soon.
 
 If the number of registrations for onsite participation exceeds the limit, a selection will be made. In this case, presenters (both contributed and poster) will take precedence.
 
 [Registration Form]()
 
 # Invited speakers (in alphabetical order)
-
-\*: Confirmed
+* Kun Chen (Institute of Theoretical Physics，China)
+* Xinyang Dong (AI for Science Institute, China)
+* Hideaki Hakoshima (Osaka University, Japan)
+* Wei Hu 
+* Bálint Koczor (University of Oxford, UK)
+* Jin-Guo Liu (Hong Kong University of Science and Technology, China)
+* Yi Lu (Physics department of Nanjing University, China)
+* Mario Motta (IBM Research Almaden, USA)
 
 # Organizers
 
