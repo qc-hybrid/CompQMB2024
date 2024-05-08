@@ -27,7 +27,7 @@ If the number of registrations for onsite participation exceeds the limit, a sel
 
 [Registration Form]()
 
-# Invited speakers (in alphabetical order)
+# Invited speakers (in alphabetical order, to be confirmed)
 * Kun Chen (Institute of Theoretical Physics，China)
 * Xinyang Dong (AI for Science Institute, China)
 * Hideaki Hakoshima (Osaka University, Japan)
