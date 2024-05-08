@@ -21,27 +21,29 @@ Please arrange your own hotel accommodations.
 Free
 
 # Registration
-Will be open soon.
-
-If the number of registrations for onsite participation exceeds the limit, a selection will be made. In this case, presenters (both contributed and poster) will take precedence.
+It will be open soon.
 
 [Registration Form]()
 
 # Invited speakers (in alphabetical order, to be confirmed)
 * Kun Chen (Institute of Theoretical Physics，China)
 * Xinyang Dong (AI for Science Institute, China)
+* Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
 * Hideaki Hakoshima (Osaka University, Japan)
 * Wei Hu (University of Science and Technology of China, China)
+* Etsuko Itou (Kyoto University, Japan)
 * Bálint Koczor (University of Oxford, UK)
 * Jin-Guo Liu (Hong Kong University of Science and Technology, China)
 * Yi Lu (Physics department of Nanjing University, China)
 * Mario Motta (IBM Research Almaden, USA)
+* Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
+* ...
 
 # Organizers
 
-* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama Univ.)
+* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama University)
 * Tsuyoshi Okubo (University of Tokyo)
-* Wataru Mizukami (University of Osaka)
+* Wataru Mizukami (Osaka University)
 
 # Local organizers
 * Kota Ido (University of Tokyo)
