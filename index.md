@@ -24,7 +24,7 @@ Free
 [Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
 # Invited speakers (in alphabetical order, to be confirmed)
-* Kun Chen (Institute of Theoretical Physics，China)
+* Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Xinyang Dong (AI for Science Institute, China)
 * Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
 * Hideaki Hakoshima (Osaka University, Japan)
@@ -35,7 +35,7 @@ Free
 * Yi Lu (Physics department of Nanjing University, China)
 * Mario Motta (IBM Research Almaden, USA)
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
-* Pan Zhang (Chinese Academy of Sciences, China)
+* Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * ...
 
 # Organizers
