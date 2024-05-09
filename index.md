@@ -15,7 +15,7 @@ September 24 - 27, 2024
 [ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html)
 
 # Accommodations
-Please arrange your own hotel accommodations.
+To be announced. We will provide hotel rooms for invited speakers and rooms in Kashiwa Guest House for attendees. Alternatively, you may arrange your own hotel accommodations.
 
 # Registration fee
 Free
