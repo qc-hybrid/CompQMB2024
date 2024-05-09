@@ -37,6 +37,7 @@ It will be open soon.
 * Yi Lu (Physics department of Nanjing University, China)
 * Mario Motta (IBM Research Almaden, USA)
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
+* Pan Zhang (Chinese Academy of Sciences, China)
 * ...
 
 # Organizers
