@@ -21,9 +21,7 @@ We will provide hotel rooms for invited speakers. Other attendees may arrange th
 Free
 
 # Registration
-It will be open soon.
-
-[Registration Form]()
+[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
 # Invited speakers (in alphabetical order, to be confirmed)
 * Kun Chen (Institute of Theoretical Physics，China)
