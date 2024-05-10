@@ -51,3 +51,6 @@ Free
 
 # Support
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
+
+# Contact
+compqmb2024_at_issp.u-tokyo.ac.jp (Please replace \_at\_ with @.)
