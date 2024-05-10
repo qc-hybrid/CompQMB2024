@@ -25,11 +25,12 @@ Free
 
 # Invited speakers (in alphabetical order, to be confirmed)
 * Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
+* Philippe Corboz (University of Amsterdam, Netherlands)
 * Xinyang Dong (AI for Science Institute, China)
 * Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
 * Hideaki Hakoshima (Osaka University, Japan)
 * Wei Hu (University of Science and Technology of China, China)
-* Etsuko Itou (Kyoto University, Japan)
+* Etsuko Itou (YITP, Kyoto University, Japan)
 * Bálint Koczor (University of Oxford, UK)
 * Jin-Guo Liu (Hong Kong University of Science and Technology, China)
 * Yi Lu (Physics department of Nanjing University, China)
