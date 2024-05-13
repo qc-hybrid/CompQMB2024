@@ -40,8 +40,7 @@ Free
 * ...
 
 # Organizers
-
-* [Hiroshi Shinaoka](<shinaoka@mail.saitama-u.ac.jp>) (Saitama University)
+* Hiroshi Shinaoka (Saitama University)
 * Tsuyoshi Okubo (University of Tokyo)
 * Wataru Mizukami (Osaka University)
 
@@ -52,6 +51,7 @@ Free
 
 # Support
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
+* FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"
 
 # Contact
 compqmb2024_at_issp.u-tokyo.ac.jp (Please replace \_at\_ with @.)
