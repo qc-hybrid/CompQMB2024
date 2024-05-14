@@ -22,6 +22,7 @@ Free
 
 # Registration
 There are slots for poster presentations.
+
 [Registration Form (Deadline: July 31th, 2024)](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
 # Invited speakers (in alphabetical order, to be confirmed)
