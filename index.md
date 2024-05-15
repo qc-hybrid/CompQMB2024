@@ -43,6 +43,7 @@ Free
 * Hiroshi Shinaoka (Saitama University)
 * Tsuyoshi Okubo (University of Tokyo)
 * Wataru Mizukami (Osaka University)
+* Kosuke Mitarai (Osaka University)
 
 # Local organizers
 * Kota Ido (University of Tokyo)
