@@ -1,5 +1,5 @@
 ---
-title:  Current and Future Computational Approaches to Quantum Many-Body Systems 2024
+title:  Current and Future Computational Approaches to Quantum Many-Body Systems 2024 (CompQMB2024)
 ---
 
 # About
