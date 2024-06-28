@@ -39,6 +39,8 @@ There are slots for poster presentations.
 * Mario Motta (IBM Research Almaden, USA)
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
 * Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
+* Róbert Izsák（Riverlane, UK)
+* David Tew (University of Oxford, UK)
 * ...
 
 # Organizers
