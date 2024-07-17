@@ -33,6 +33,7 @@ There are slots for poster presentations.
 * Hideaki Hakoshima (Osaka University, Japan)
 * Wei Hu (University of Science and Technology of China, China)
 * Etsuko Itou (YITP, Kyoto University, Japan)
+* Jason Kaye (CCQ, Flatiron institute)
 * Bálint Koczor (University of Oxford, UK)
 * Jin-Guo Liu (Hong Kong University of Science and Technology, China)
 * Yi Lu (Physics department of Nanjing University, China)
