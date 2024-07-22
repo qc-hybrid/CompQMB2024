@@ -58,5 +58,8 @@ There are slots for poster presentations.
 * [FY2023-2025 MEXT -KAKENHI- Grant-in-Aid for Transformative Research Areas (B) "Computational materials science based on quantum-classical hybrid algorithms"](https://qc-hybrid.github.io)
 * FY2023-2028 JST ASPIRE "Forging a global research network for quantum information and quantum biology"
 
+
+<img src="./QCHybrid-logo-RGB03.png" alt="FWF" width="25%"/>
+
 # Contact
 compqmb2024_at_issp.u-tokyo.ac.jp (Please replace \_at\_ with @.)
