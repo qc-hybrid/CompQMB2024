@@ -25,7 +25,7 @@ There are slots for poster presentations.
 
 [Registration Form (Deadline: July 31th, 2024)](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
-# Invited speakers (in alphabetical order, to be confirmed)
+# Invited speakers (in alphabetical order)
 * Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Philippe Corboz (University of Amsterdam, Netherlands)
 * Xinyang Dong (AI for Science Institute, China)
@@ -41,8 +41,7 @@ There are slots for poster presentations.
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
 * Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Róbert Izsák（Riverlane, UK)
-* David Tew (University of Oxford, UK)
-* ...
+* David Tew (University of Oxford, UK) [to be confirmed]
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
