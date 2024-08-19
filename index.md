@@ -25,6 +25,9 @@ There are slots for poster presentations.
 
 [Registration Form (Deadline: August 31th, 2024)](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
+# Poster presentation
+The board size will be 164x113cm. We will announce more information later.
+
 # Invited speakers (in alphabetical order)
 * Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Philippe Corboz (University of Amsterdam, Netherlands)
