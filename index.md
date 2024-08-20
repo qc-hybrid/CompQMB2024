@@ -44,7 +44,7 @@ The board size will be 164x113cm. We will announce more information later.
 * Mario Motta (IBM Research Almaden, USA)
 * Alexander Wietek (Max Planck Institute for the Physics of Complex Systems, Germany)
 * Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
-* David Tew (University of Oxford, UK) [to be confirmed]
+* Daniel Marti-Dafcik (University of Oxford, UK)
 
 # Organizers
 * Hiroshi Shinaoka (Saitama University)
