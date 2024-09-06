@@ -9,7 +9,8 @@ This workshop is focused on developing current and future computational methods 
 September 24 - 27, 2024
 
 # Program
-[Link](/assets/program.pdf)
+* [Scientific program](/assets/program.pdf)
+* [Self-organized hands-on session](self-organized-hands-on.html): 15:10-18:00, September 27th
 
 # Venue
 [ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html)
