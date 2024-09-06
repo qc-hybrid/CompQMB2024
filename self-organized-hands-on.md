@@ -1,6 +1,6 @@
-# Self-organized hands-on sessions
+# Self-organized hands-on session
 
-During the free discussion seeions (15:10-18:00, September 27th) after the closing on the last day, we will organize self-organized hands-on sessions for the following packages.
+During the free discussion seeion (15:10-18:00, September 27th) after the closing on the last day, we will organize self-organized hands-on sessions for the following packages.
 We will not provide formal lectures or tutorials, but we will provide a room (Lecture room A632) in the conference venue.
 Participants can learn how to use the packages themselves using online manuals and tutorials. The organizers will be available to help you with any questions you may have.
 
