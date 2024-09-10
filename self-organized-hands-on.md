@@ -9,7 +9,7 @@ Participants can learn how to use the packages themselves using online manuals a
 
 * [mVMC](https://ma.issp.u-tokyo.ac.jp/en/app/518): A low-energy solver for a wide ranger of quantum lattice models by using variational Monte Carlo method. Advisor: K. Ido and T. Misawa
 
-* [TeNeS](https://github.com/issp-center-dev/TeNeS): A solver for 2D quantum lattice system based on a PEPS wave function and the CTM method. Lecturer: T. Okubo and S. Morita
+* [TeNeS](https://github.com/issp-center-dev/TeNeS): A solver for 2D quantum lattice system based on a PEPS wave function and the CTM method. Advisor: T. Okubo and S. Morita
 
 * [xfac/TensorCrossInterpolation.jl](https://tensor4all.org): C++/Python/Julia library for tensor cross interpolation and quantics tensor trains. Advisor: H. Shinaoka
 
