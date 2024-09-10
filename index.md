@@ -21,13 +21,14 @@ We will provide hotel rooms for invited speakers. Other attendees may arrange th
 # Registration fee
 Free
 
-# Registration
-There are slots for poster presentations.
-
+# Registration (closed)
 [Registration Form (Deadline: August 31th, 2024)](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
 # Poster presentation
-The board size will be 164x113cm. We will announce more information later.
+[Poster list](/asserts/programs.pdf)
+* The board size will be 164x113cm.
+* Each presenter will have 1 minute to deliver their flash talk.
+
 
 # Invited speakers (in alphabetical order)
 * Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
