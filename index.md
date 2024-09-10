@@ -25,7 +25,7 @@ Free
 [Registration Form (Deadline: August 31th, 2024)](https://docs.google.com/forms/d/e/1FAIpQLSe7M6RfsJytfHC5PCLPmocCSD892kNlp1UbHUILVzSPtYQrYA/viewform)
 
 # Poster presentation
-[Poster list](/asserts/posters.pdf)
+[Poster list](/assets/posters.pdf)
 * The board size will be 164x113cm.
 * Each presenter will have 1 minute to deliver their flash talk.
 
