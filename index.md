@@ -26,7 +26,7 @@ Free
 
 # Poster presentation
 [Poster list](/assets/posters.pdf)
-* The board size will be 164x113cm.
+* The board size will be 164Hx113Wcm.
 * Each presenter will have 1 minute to deliver their flash talk.
 
 
