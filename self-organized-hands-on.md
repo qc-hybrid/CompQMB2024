@@ -17,5 +17,5 @@ Participants can learn how to use the packages themselves using online manuals a
   
 * [MateriApps LIVE!](https://cmsi.github.io/MateriAppsLive/): A virtual environment with fully-developed manuals and tutorials of various open-source packages for computational physics. Advisor: S. Todo
 
-* [QURI Parts:](https://quri-parts.qunasys.com/): QURI Parts: An open source library suite for creating and executing quantum algorithms on various quantum computers and simulators. Advisor: R. Imai
+* [QURI Parts](https://quri-parts.qunasys.com/): QURI Parts: An open source library suite for creating and executing quantum algorithms on various quantum computers and simulators. Advisor: R. Imai
 
