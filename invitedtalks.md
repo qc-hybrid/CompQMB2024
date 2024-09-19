@@ -13,8 +13,10 @@ Yi Lu (Physics department of Nanjing University, China)
 
 We employ an adapted Vision Transformer (ViT) to model quantum impurity models, optimizing it with a subspace expansion scheme in the natural-orbital representation that outperforms conventional variational Monte Carlo in both accuracy and efficiency. Benchmarks against matrix product states in single- and three-orbital Anderson impurity models show that ViT-based neural quantum states achieve comparable or superior accuracy with far fewer variational parameters. We also compute dynamical quantities using by introducing a restricted excitation space, yielding accurate core-level X-ray absorption spectra. These results highlight the potential of ViT-based neural quantum states for efficient and accurate modeling of quantum impurity models.
 
-### T.B.A.
+### Variational autoregressive networks and its applications in statistical physics and quantum error-correcting codes
 Pan Zhang (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
+
+In this presentation, Pan Zhang will introduce the variational autoregressive network (VAN) and its applications in the field of statistical mechanics. VAN leverages autoregressive neural networks to construct a normalized variational distribution across numerous discrete variables, with the objective of minimizing the variational free energy through policy gradients. In the realm of equilibrium statistical physics, VAN demonstrates its prowess by closely approximating the target Boltzmann distribution and accurately estimating the free energy. When addressing non-equilibrium statistical mechanics, VAN adeptly simulates the temporal progression of the joint distribution governed by a master equation. Pan Zhang will also showcase a recent work, qecGPT, which adapts the VAN framework to tackle Bayesian inference challenges encountered in the decoding process of quantum error-correcting codes.
 
 
 ### Applications of quantum computation and tensor networks to lattice gauge theory
@@ -59,8 +61,12 @@ We introduce a tensor network based framework to analyse the solution space of a
 
 
 ## Day3
-### T.B.A.
+### Electronic structure simulations beyond the reach of exact diagonalization with quantum-centric supercomputing
 Mario Motta (IBM Research Almaden, USA)
+
+We present [1] quantum computations of electronic structure that go beyond problem sizes amenable to current state-of-the-art exact diagonalization. Our results are obtained in a quantum-centric supercomputing architecture, using 6400 nodes of the Fugaku supercomputer to assist an IBM Heron quantum processor. We simulate the N2 triple bond breaking in a correlation-consistent cc-pVDZ basis set, and the active-space electronic structure of methyl-capped [2Fe–2S] and [4Fe–4S] clusters, using 58, 45 and 77 qubits respectively, with quantum circuits of up to 10570 (of which 3590 are 2-qubit gates) quantum gates.
+
+[1] https://arxiv.org/abs/2405.05068"
 
 ### Discontinuous Galerkin Hartree-Fock calculations for predicting accurate electronic structures of mesoscopic-scale metal-semiconductor junctions with millions of atoms
 Wei Hu (University of Science and Technology of China, China)
@@ -85,8 +91,10 @@ I will describe a new algorithm to evaluate imaginary time Feynman diagram integ
 Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 
 
-### T.B.A.
+### Thermal pure matrix product state in 2D: tracking thermal equilibrium from paramagnet down to the Kitaev spin liquid state
 Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
+
+We show that the matrix product state (MPS) provides a thermal pure quantum state (TPQ) representation in equilibrium in two spatial dimensions over the entire temperature range. We start off by illustrating TPQ-MPS on the Kitaev honeycomb model as a prominent, non-trivial example hosting a quantum spin liquid ground state. Our method is able to qualitatively capture the double-peak in the specific heat. Then, application to other two-dimensional quantum systems will be discussed.
 
 ### Purification-based quantum simulations via clustering property
 Hideaki Hakoshima (Osaka University, Japan)
