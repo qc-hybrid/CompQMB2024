@@ -86,7 +86,7 @@ Jason Kaye (CCQ, Flatiron institute)
 
 I will describe a new algorithm to evaluate imaginary time Feynman diagram integrals of low to intermediate order with controllable, high-order accuracy, and at low temperatures. The central idea is to approximate certain factors in the integrand as sums of exponentials, and use separation of variables to decompose the multiple integrals into sequences of nested one-dimensional products and convolutions, which can be computed efficiently using the discrete Lehmann representation. As a first application of the idea, I will focus on the bold hybridization expansion of a quantum impurity model. I will also discuss the AAA algorithm for rational approximation, which in this case is used to obtain compact sum-of-exponentials approximations of hybridization functions, but which may be more broadly useful in the problem of fitting spectral densities by sums of simple poles.
 
-## Day3
+## Day4
 ### T.B.A.
 Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 
