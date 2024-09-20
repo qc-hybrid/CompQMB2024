@@ -10,7 +10,7 @@ September 24 - 27, 2024
 
 # Program
 * [Scientific program](/assets/program.pdf)
-* [Title and abstracts of invited talks](invitedtalks.html)
+* [Titles and abstracts of invited talks](invitedtalks.html)
 * [Self-organized hands-on session](self-organized-hands-on.html): 15:10-18:00, September 27th
 
 
@@ -18,7 +18,6 @@ September 24 - 27, 2024
 [Poster list](/assets/posters.pdf)
 * The board size will be 164Hx113Wcm.
 * Each presenter will have 1 minute to deliver their flash talk.
-
 
 # Venue
 Lecture room A632 at [ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html).
