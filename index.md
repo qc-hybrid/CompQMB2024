@@ -21,7 +21,8 @@ September 24 - 27, 2024
 
 
 # Venue
-[ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html)
+Lecture room A632 at [ISSP, Kashiwa Campus, Univ. Tokyo](https://www.issp.u-tokyo.ac.jp/maincontents/access_en.html).
+A [floor map](https://www.issp.u-tokyo.ac.jp/maincontents/floor6f_en.html) is available online.
 
 # Accommodations
 We will provide hotel rooms for invited speakers. Other attendees may arrange their own hotel accommodations or reserve rooms in [Kashiwa Guest House](https://www.issp.u-tokyo.ac.jp/maincontents/accommodation_en.html) directly via their reservation system. Reservations for the guest house will start 3 months before the stay date. A detailed instruction is available [here](guesthouse.html).
