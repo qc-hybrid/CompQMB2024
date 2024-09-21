@@ -31,10 +31,14 @@ Quantum computers are becoming a reality and current generations of machines are
 
 Due to limited resources, in the near term, hybrid quantum-classical protocols are the most promising candidates for achieving early quantum advantage and these need to resort to quantum error mitigation techniques. I will explain the basic concepts and introduce hybrid quantum-classical protocols are the most promising candidates for achieving early quantum advantage. These have the potential to solve real-world problems---including optimisation or ground-state search---but they suffer from a large number of circuit repetitions required to extract information from the quantum state. I will finally discuss areas where quantum computers may have the potential to deliver advantage in the near term.
 
-### Recent Developments in Applications of Quantum Computing to Chemistry and Materials Science
-Róbert Izsák（Riverlane, UK)
+### Electronic structure simulations beyond the reach of exact diagonalization with quantum-centric supercomputing
+Mario Motta (IBM Research Almaden, USA)
 
-Riverlane focuses on quantum error correction and fault-tolerant algorithms, prioritizing the development of algorithms for chemistry, material science and fluid dynamics applications. This contribution will provide a summary of the most relevant of our papers published in the last three years, including those on embedding, the cost analysis of pharmaceutical and solid-state algorithms, electron correlation, the adaptation of classical techniques, such as the projector augmented wave method, to quantum computers, first-quantization-based methods and some of our work on early fault tolerant algorithms. If time allows, fluid dynamics applications will be mentioned. Finally, some conclusions will be drawn on the trends and prospects of quantum computing in these application areas.
+We present [1] quantum computations of electronic structure that go beyond problem sizes amenable to current state-of-the-art exact diagonalization. Our results are obtained in a quantum-centric supercomputing architecture, using 6400 nodes of the Fugaku supercomputer to assist an IBM Heron quantum processor. We simulate the N2 triple bond breaking in a correlation-consistent cc-pVDZ basis set, and the active-space electronic structure of methyl-capped [2Fe–2S] and [4Fe–4S] clusters, using 58, 45 and 77 qubits respectively, with quantum circuits of up to 10570 (of which 3590 are 2-qubit gates) quantum gates.
+
+[1] https://arxiv.org/abs/2405.05068"
+
+
 
 ## Day2
 
@@ -61,12 +65,10 @@ We introduce a tensor network based framework to analyse the solution space of a
 
 
 ## Day3
-### Electronic structure simulations beyond the reach of exact diagonalization with quantum-centric supercomputing
-Mario Motta (IBM Research Almaden, USA)
+### Recent Developments in Applications of Quantum Computing to Chemistry and Materials Science
+Róbert Izsák（Riverlane, UK)
 
-We present [1] quantum computations of electronic structure that go beyond problem sizes amenable to current state-of-the-art exact diagonalization. Our results are obtained in a quantum-centric supercomputing architecture, using 6400 nodes of the Fugaku supercomputer to assist an IBM Heron quantum processor. We simulate the N2 triple bond breaking in a correlation-consistent cc-pVDZ basis set, and the active-space electronic structure of methyl-capped [2Fe–2S] and [4Fe–4S] clusters, using 58, 45 and 77 qubits respectively, with quantum circuits of up to 10570 (of which 3590 are 2-qubit gates) quantum gates.
-
-[1] https://arxiv.org/abs/2405.05068"
+Riverlane focuses on quantum error correction and fault-tolerant algorithms, prioritizing the development of algorithms for chemistry, material science and fluid dynamics applications. This contribution will provide a summary of the most relevant of our papers published in the last three years, including those on embedding, the cost analysis of pharmaceutical and solid-state algorithms, electron correlation, the adaptation of classical techniques, such as the projector augmented wave method, to quantum computers, first-quantization-based methods and some of our work on early fault tolerant algorithms. If time allows, fluid dynamics applications will be mentioned. Finally, some conclusions will be drawn on the trends and prospects of quantum computing in these application areas.
 
 ### Discontinuous Galerkin Hartree-Fock calculations for predicting accurate electronic structures of mesoscopic-scale metal-semiconductor junctions with millions of atoms
 Wei Hu (University of Science and Technology of China, China)
