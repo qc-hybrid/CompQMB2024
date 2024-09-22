@@ -2,7 +2,7 @@
 
 ## Day 1
 ### Deep variational free energy for hydrogen systems 
-Xinyang Dong (AI for Science Institute, China)
+Xinyang Dong (Institute of Physics Chinese Academy of Sciences, Beijing, China)
 
 Hydrogen, being the first element in the periodic table, is the most abundant elements in the Universe. Dense hydrogen systems exhibit a variety of fascinating physical phenomena, including liquid-liquid transition and metallization. Accurate prediction of the phase diagram of dense hydrogen has long been a challenge for computational methods.
 
