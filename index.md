@@ -36,7 +36,7 @@ Free
 # Invited speakers (in alphabetical order)
 * Kun Chen (Institute of Theoretical Physics, Chinese Academy of Sciences, China)
 * Philippe Corboz (University of Amsterdam, Netherlands)
-* Xinyang Dong (AI for Science Institute, China)
+* Xinyang Dong (Institute of Physics Chinese Academy of Sciences, Beijing, China)
 * Matthias Gohlke (Okinawa Institute of Science and Technology Graduate University, Japan)
 * Hideaki Hakoshima (Osaka University, Japan)
 * Wei Hu (University of Science and Technology of China, China)
