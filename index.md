@@ -8,6 +8,9 @@ This workshop is focused on developing current and future computational methods 
 # Dates 
 September 24 - 27, 2024
 
+# Booklet
+[PDF](/assets/booklet.pdf)
+
 # Program
 * [Scientific program](/assets/program.pdf)
 * [Titles and abstracts of invited talks](invitedtalks.html)
